@@ -7,7 +7,7 @@
 @import url("https://eject37.github.io/DiscordTheme/RegionFlags.css");
 
 :root {
-    --app-bg: url(https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd21semRqOW93OXVxbWhkcGV1bjNscnU5eHFqd2U2dXg2bXQ3OXJiYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CCXHZWV6F6O9VQ7FL/giphy.webp);
+    --app-bg: url(https://tenor.com/view/green-wallpaper-wallpaper-green-vert-gr%C3%BCn-gif-21025097);
     --blur-bg: 80px;
     --brightness-bg: 0.3;
     --border-main: 1px solid rgba(255, 255, 255, 0.1);
@@ -685,7 +685,7 @@ button[class*="lookFilled_dd4f85"]:hover {
     max-width: 1000px !important;
 }
 .tip_e40c16::before {
-    content: "Animated Glass Theme";
+    content: "Yiuo Glass Theme";
     color: white !important;
     display: flex;
     justify-content: center;
@@ -696,7 +696,7 @@ button[class*="lookFilled_dd4f85"]:hover {
 
 .tip_e40c16::after {
     animation: slidein 1s;
-    content: "Updated: 20.08.2024 ";
+    content: "Updated: 16.11.2024 ";
     color: white !important;
     display: flex;
     justify-content: center;
@@ -942,10 +942,10 @@ article.embedWrapper_b558d0.embedFlexGrow_b558d0.embedFull_b0068a.embed_b0068a.m
 }
 
 
-.searchBarComponent_f0963d, /* Строка поиска слева сверху */
-.menu_d90b3d:not(.menu_ad5fac), /* Контекстное меню */ 
-.searchBar_e7c031,   /* поиск в настройках */ 
-.searchBarComponent_f0963d  /*поиск в главном менбю*/ {
+.searchBarComponent_f0963d,
+.menu_d90b3d:not(.menu_ad5fac),
+.searchBar_e7c031,
+.searchBarComponent_f0963d {
     background: rgba(190, 190, 190, 0.05) !important;
     border-radius: 10px !important;
 }
